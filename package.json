@@ -1,0 +1,19 @@
+{
+  "name": "@dilums/urban-umbrella",
+  "version": "1.0.1",
+  "description": "This is a test package",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilums/urban-umbrella.git"
+  },
+  "author": "Dilum Sanjaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilums/urban-umbrella/issues"
+  },
+  "homepage": "https://github.com/dilums/urban-umbrella#readme"
+}
